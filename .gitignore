@@ -1,0 +1,8 @@
+.venv
+.idea/
+airflow-webserver.pid
+airflow.cfg
+airflow.db
+logs/
+unittests.cfg
+
